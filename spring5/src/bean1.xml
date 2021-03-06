@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--   一、 配置User对象创建-->
+    <!--  IOC操作Bean管理（1、基于XML方式创建对象2、基于XML方式注入属性（DI：依赖注入，就是注入属性））  -->
+<!--    <bean id="user" class="BeansManageXML.User"></bean>-->
+
+<!--    二、set方法注入属性-->
+    <bean id="book" class="BeansManageXML.Book">
+        <property name="bookName" value="Effective JAVA"></property>
+        <property name="bookAuthor" value="Alex"></property>
+    </bean>
+
+
+</beans>
