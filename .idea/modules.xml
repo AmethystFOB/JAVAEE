@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JAVAEE.iml" filepath="$PROJECT_DIR$/JAVAEE.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC/SpringMVC.iml" filepath="$PROJECT_DIR$/SpringMVC/SpringMVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/Spring5/spring5.iml" filepath="$PROJECT_DIR$/Spring5/spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-annotation/springmvc-annotation.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-annotation/springmvc-annotation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SpringMVC/springmvc-servlet/springmvc-servlet.iml" filepath="$PROJECT_DIR$/SpringMVC/springmvc-servlet/springmvc-servlet.iml" />
     </modules>
   </component>

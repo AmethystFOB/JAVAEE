@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-servlet" />
+        <module name="springmvc-annotation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="SpringMVC" target="1.5" />
+      <module name="springmvc-annotation" target="1.5" />
       <module name="springmvc-servlet" target="1.5" />
     </bytecodeTargetLevel>
   </component>
