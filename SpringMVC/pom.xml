@@ -11,6 +11,7 @@
     <modules>
         <module>springmvc-servlet</module>
         <module>springmvc-annotation</module>
+        <module>springmvc-json</module>
     </modules>
 
     <!--    依赖-->
