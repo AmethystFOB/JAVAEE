@@ -40,6 +40,7 @@
         </dependency>
     </dependencies>
 
+<!--    该build中解决Java Compiler中Target bytecode version自动更改问题，以下默认设置1.8(jdk8)-->
     <build>
         <plugins>
             <plugin>
