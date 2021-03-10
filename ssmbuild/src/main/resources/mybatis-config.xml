@@ -2,9 +2,13 @@
 <!DOCTYPE configuration
         PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<!--mybatis-config.xml为mybatis的核心配置文件-->
 <configuration>
     <typeAliases>
         <package name="com.amethyst.pojo"/>
     </typeAliases>
+
+    <mappers>
+        <mapper class="com.amethyst.dao.BookMapper"/>
+    </mappers>
 </configuration>
-<!--mybatis-config.xml为mybatis的核心配置文件-->

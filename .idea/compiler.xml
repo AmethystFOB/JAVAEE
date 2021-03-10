@@ -14,11 +14,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
-      <module name="SpringMVC" target="1.5" />
-      <module name="springmvc-annotation" target="1.5" />
+      <module name="SpringMVC" target="1.8" />
+      <module name="springmvc-annotation" target="1.8" />
       <module name="springmvc-json" target="1.8" />
-      <module name="springmvc-servlet" target="1.5" />
-      <module name="ssmbuild" target="1.5" />
+      <module name="springmvc-servlet" target="1.8" />
+      <module name="ssmbuild" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
