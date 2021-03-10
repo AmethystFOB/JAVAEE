@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springmvc-servlet" />
+        <module name="ssmbuild" />
         <module name="springmvc-annotation" />
         <module name="springmvc-json" />
       </profile>
@@ -17,6 +18,7 @@
       <module name="springmvc-annotation" target="1.5" />
       <module name="springmvc-json" target="1.8" />
       <module name="springmvc-servlet" target="1.5" />
+      <module name="ssmbuild" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
